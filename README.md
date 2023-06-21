@@ -1,5 +1,3 @@
-Here's a draft of a `README.md` file for your repository:
-
 ---
 
 # Password-Breached-or-Not Android Application
